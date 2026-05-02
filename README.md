@@ -1,4 +1,4 @@
-# File Sharing Server Using Python.
+# File Sharing Server Using Python
 ## 1. Introduction:
 A Local-Host client-server program that stores and send file data from client and sends it to the server or a client shares a file data stored in the server's database to another client.
 
