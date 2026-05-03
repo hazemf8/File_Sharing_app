@@ -2,8 +2,8 @@ import socket
 import threading
 import sqlite3
 
-HOST = '127.0.0.1'
-PORT = 5555
+HOST = 'x.x.x.x' # enter the static ip of the server
+PORT = 5000 #the confirmed port on the server for connection
 DB_FILE = 'server.db'
 
 def init_db():
