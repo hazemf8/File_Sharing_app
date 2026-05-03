@@ -18,8 +18,8 @@ A Local-Host client-server program that stores and send file data from client an
 
 ## 4. Configuration:
 The configuration of the server is done by:
-- Identifying the ip of the local host "127.0.0.1".
-- Choosing an empty port for the user, Example: "5555".
+- Identifying the ip of the server.
+- Choosing an empty port for the user, Example: "5000".
 - Creating a variable to store the path of the database, to store the client's data.
 
 ## 5. Running The Program:
