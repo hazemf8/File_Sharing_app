@@ -3,8 +3,8 @@ import os
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, simpledialog
 
-HOST = '127.0.0.1'
-PORT = 5555
+HOST = 'x.x.x.x'
+PORT = 5000 #any unused port
 
 # ---------- Helper ----------
 def recv_line(reader):
