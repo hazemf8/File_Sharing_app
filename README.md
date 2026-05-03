@@ -9,7 +9,7 @@ A Local-Host client-server program that stores and send file data from client an
 
 - Multi-threading: *The server can handle multiple users at the same time using **threading**.*
 
-- Sharing: *The user can share his/her resources to another user, while the other user can upload, delete, and download files at the same time.*
+- Sharing: *The user can share his/her files to another user, by typing the name of the other user.*
 
 ## 3. Libraries:
 1. Socket: *Sending and recieving the file data.*
