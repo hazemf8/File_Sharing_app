@@ -24,5 +24,5 @@ The configuration of the server is done by:
 
 ## 5. Running The Program:
 When you run the application, you must:
-1. Open the server by using the command: `python3 run server.py` in the terminal.
-2. Run the client code in the client terminal by using the command: `python3 run client.py`.
+1. Open the server by using the command: `python3 server.py` in the terminal.
+2. Run the client code in the client terminal by using the command: `python3 client.py`.
