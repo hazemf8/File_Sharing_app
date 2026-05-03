@@ -3,7 +3,7 @@ import os
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog, simpledialog
 
-HOST = 'x.x.x.x'
+HOST = 'x.x.x.x' # the static ip of the server
 PORT = 5000 #any unused port
 
 # ---------- Helper ----------
